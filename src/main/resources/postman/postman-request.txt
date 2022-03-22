@@ -1,0 +1,25 @@
+
+
+//   /addPeople
+
+[
+    {
+        "name": "sudarshan",
+        "mobile": "8296464702",
+        "email": "sudarshanrbhat.srb2@gmail.com",
+        "address": ["mangalore"]
+
+    },
+    {
+         "name": "vishwas rathore",
+        "mobile": "9996999702",
+        "email": "vrathore@gmail.com",
+        "address": ["bangalore"]
+    },
+    {
+        "name": "veeresh",
+        "mobile": "8296934000",
+        "email": "veereshJamval@gmail.com",
+        "address": ["udaipur"]
+    }
+]
